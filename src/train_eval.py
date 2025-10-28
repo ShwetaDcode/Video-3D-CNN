@@ -1,6 +1,4 @@
 def main():
-    # all your existing train_eval.py code goes here
-    # e.g., loading data, creating model, training, evaluation, plots, etc.
 
     import pandas as pd
     import matplotlib.pyplot as plt
